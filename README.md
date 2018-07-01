@@ -1,3 +1,2 @@
-# aSisty
-# My Udacity Pixel Art Maker Project
-https://tayyib-a60.github.io/aSisty/
+#Pixel Art Maker
+ALC3.0 seven days challenge solution
